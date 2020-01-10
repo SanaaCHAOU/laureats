@@ -1,0 +1,28 @@
+ul {
+    width: 70%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(194, 184, 187);
+}
+
+a:hover {
+    color: rgb(250, 244, 244);
+}
+
+
+.navbar {
+    width: 100%;
+    background-color: rgb(148, 39, 90);
+    height: 6vh;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.page-center {
+    margin: 0 auto;
+}
